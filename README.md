@@ -38,23 +38,23 @@ Ces valeurs sont celles du tableau de bord Looker Studio. Elles doivent être in
 
 ### 1. Vue globale — KPI et évolution mensuelle
 
-![Vue globale du tableau de bord NovaTel](images/novatel_dashboard_1.png)
+![Vue globale du tableau de bord NovaTel](novatel_dashboard_1.png)
 
 ### 2. Géographie — chiffre d’affaires net par région
 
-![Chiffre d’affaires net par région](images/novatel_dashboard_2.png)
+![Chiffre d’affaires net par région](novatel_dashboard_2.png)
 
 ### 3. Produits — catégories, canaux et produits performants
 
-![Analyse des produits dans Looker Studio](images/novatel_dashboard_3.png)
+![Analyse des produits dans Looker Studio](novatel_dashboard_3.png)
 
 ### 4. Opérations — chiffre d’affaires par type d’opération
 
-![Analyse des opérations dans Looker Studio](images/novatel_dashboard_4.png)
+![Analyse des opérations dans Looker Studio](novatel_dashboard_4.png)
 
 ### 5. Vue complémentaire — montant net par canal et type d’opération
 
-![Vue complémentaire du tableau de bord NovaTel](images/novatel_dashboard_5.png)
+![Vue complémentaire du tableau de bord NovaTel](novatel_dashboard_5.png)
 
 ## Démarche de contrôle qualité
 
